@@ -1,0 +1,3 @@
+[submodule "msgvault"]
+	path = msgvault
+	url = https://github.com/kenn-io/msgvault.git
